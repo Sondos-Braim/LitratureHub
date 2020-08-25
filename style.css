@@ -1,0 +1,49 @@
+h1{ 
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    border-style :outset ;
+    border-color: #CCAFA3; 
+    margin: 50px ;
+    padding: 50px;
+    font-size:8pc ;
+    color:#422B21;
+    background-color:#C27C61;
+}
+*{ 
+    background-color: #CCAFA3;
+
+}
+
+a{
+color: #422B21 ;
+background-color:#C27C61;
+text-shadow: 2xp 2xp black;
+}
+img{
+    width: 70px; 
+}
+footer{
+
+    font-family: 'Times New Roman', Times, serif;
+    border-style :outset ;
+    border-color: #CCAFA3; 
+    margin-top: 300px  ;
+    
+    font-size:2pc ;
+    color:#422B21;
+    background-color:#C27C61;
+
+}
+#last{
+    background-color:#C27C61;  
+}
+.names{
+    display: inline-block;
+    width: 300px;
+    margin: 50px;
+}
+img{
+    width: 300px;
+
+}
+
