@@ -1,4 +1,3 @@
-
 var lName;
 var fName;
 fName =prompt("enter your First name");
@@ -26,15 +25,3 @@ function read(book){
 read(userinput);
 // document.write();
 document.write('<h3>' + read(userinput) + '</h3>');
-
-
-
-
-
-
-
-
-
-
-
-
