@@ -1,28 +1,47 @@
-h1{ 
+header{ 
     text-align: center;
-    font-family: 'Times New Roman', Times, serif;
     border-style :outset ;
-    border-color: #CCAFA3; 
+    border-color: #422B21; 
     margin: 50px ;
-    padding: 30px;
-    font-size:8pc ;
-    color:#422B21;
+    padding: 50px;
     background-color:#C27C61;
+    border-radius: 15px;
+    
+}
+a{
+    background-color:#C27C61; 
+    font-family: 'Times New Roman', Times, serif; 
+    font-size:8pc ;
+    color: #251e1a ;
+    background-color:#C27C61;
+    text-shadow: 5px 0px 14px rgba(0, 0, 0, 1); 
 }
 *{ 
     background-color: #CCAFA3;
+    box-sizing: border-box;
 
+      }
+.nav{
+    
+    background-color:#C27C61;
+    font-size: 2pc;
 }
 
-a{
-color: #422B21 ;
-background-color:#C27C61;
-text-shadow: 2xp 2xp black;
+#nav{
+    background-color:#C27C61;
+    list-style-type: none;
+   
 }
-#im{
-    width: 200px; 
-    height: 80;
+
+h1{
+    background-color:#C27C61;
 }
+li{
+    background-color:#C27C61;   
+   display: inline;
+   padding: 15px;
+}
+
 footer{
 
     font-family: 'Times New Roman', Times, serif;
@@ -35,25 +54,23 @@ footer{
     font-size:2pc ;
     color:#422B21;
     background-color:#C27C61;
-
 }
 #last{
     background-color:#C27C61;  
-} .names{      
-        font-size: 3pc;   
-          font-style: oblique;  
-             margin:5px;   
-               padding: 5px; 
-                 font-family: 'Times New Roman', Times, serif;   
-                   border-style :outset ;    
-                    border-color: #CCAFA3;  
-                        margin: 50px ;   
-                          padding: 50px; 
-                                   color:#422B21;  
-                                      background-color:#C27C61; 
+}
+ .names{      
+    font-size: 3pc;   
+    font-style: oblique;  
+    font-family: 'Times New Roman', Times, serif;   
+    border-style :outset ;    
+    border-color: #CCAFA3;  
+    margin: 50px ;   
+    padding: 50px; 
+    color:#422B21;  
+    background-color:#C27C61; 
+    display: block;
 }
 img{
     width: 300px;
 
 }
-
