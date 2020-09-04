@@ -8,6 +8,15 @@ header{
     border-radius: 15px;
     
 }
+#logo{
+    width: 150px;
+    height: 150px;
+    border-radius: 100px;
+    margin:30px;
+    margin-bottom: -20px;
+    margin-right: 50px;
+    margin-top: -20px;
+}
 a{
     background-color:#C27C61; 
     font-family: 'Times New Roman', Times, serif; 
