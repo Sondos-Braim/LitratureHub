@@ -24,6 +24,7 @@ a{
     color: #251e1a ;
     background-color:#C27C61;
     text-shadow: 5px 0px 14px rgba(0, 0, 0, 1); 
+    text-decoration: none;
 }
 *{ 
     background-color: #CCAFA3;
